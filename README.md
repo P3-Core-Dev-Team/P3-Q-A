@@ -2,7 +2,7 @@
 This repo is for tracking Questions and Answers on features of the products released by p3
 
 Best Practices:
-- Check fis your issue was previous asked?
+- Check if your issue was previous asked?
 - Raise your queries in the issue section if not already existing?
 - Add comment and screen shots as needed to help recreate or replicate the incident.
 - Add tags relavent to the product, module, type (bug, feature request, reopened, etc)
