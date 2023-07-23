@@ -1,5 +1,5 @@
 # P3-Q-A
-This repo is for tracking Questions and Answers on features of the products released by p3
+This repo is for tracking Questions and Answers on features of the products released by p3.
 Use this to report issues to testing team to analyze and track the bugs. 
 
 Best Practices:
